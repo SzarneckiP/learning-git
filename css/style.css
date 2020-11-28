@@ -1,0 +1,22 @@
+
+    /*main styles*/
+    .container {
+        max-width: 1140px;
+        width: 50%;
+        margin: auto;
+        padding: 15px;
+    }
+
+h1 {
+    margin-bottom: 0;
+}    
+
+.second-title {
+    font-size: 15px;
+    font-style: italic;
+    margin-bottom: 30px;
+}
+
+p {
+    line-height: 1.5;
+}
