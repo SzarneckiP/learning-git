@@ -1,0 +1,25 @@
+{
+  "name": "nauka-gita",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SzarneckiP/learning-git.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SzarneckiP/learning-git/issues"
+  },
+  "homepage": "https://github.com/SzarneckiP/learning-git#readme",
+  "description": "",
+  "devDependencies": {
+    "autoprefixer-cli": "^1.0.0",
+    "browser-sync": "^2.26.13",
+    "html-validate": "^4.0.2"
+  }
+}
